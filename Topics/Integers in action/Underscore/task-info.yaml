@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: in any place inside a number, but not near other underscore.
+- text: in any place inside a number.
+- text: ' before or after a number.'
+- text: only every three digits, counting from the right.
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5978#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 23 Aug 2022 13:36:36 UTC
+record: -1
+selected_options:
+- 1
+local_check: false

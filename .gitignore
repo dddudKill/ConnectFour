@@ -1,0 +1,37 @@
+# Project exclude paths
+/.gradle/
+/Connect Four/task/build/
+/Topics/Integers in action/Integer division/build/
+/Topics/Integers in action/The number of tens/build/
+/Topics/Integers in action/Theory/build/
+/Topics/Integers in action/Underscore/build/
+/Topics/Integers in action/Unsigned integers/build/
+/Topics/Jumps and returns/Correct jumping/build/
+/Topics/Jumps and returns/First digit/build/
+/Topics/Jumps and returns/Jumping out/build/
+/Topics/Jumps and returns/Theory/build/
+/Topics/Jumps and returns/Whole truth about continue/build/
+/Topics/List/Are you there/build/
+/Topics/List/Concise/build/
+/Topics/List/Indexes/build/
+/Topics/List/My position/build/
+/Topics/List/Number of occurrences/build/
+/Topics/List/Sum of numbers/build/
+/Topics/List/Theory/build/
+/Topics/Multi-dimensional list/Corners/build/
+/Topics/Multi-dimensional list/Cube of zeros/build/
+/Topics/Multi-dimensional list/Initialization rules/build/
+/Topics/Multi-dimensional list/Shapeshifter/build/
+/Topics/Multi-dimensional list/Theory/build/
+/Topics/Mutable List/Add them all/build/
+/Topics/Mutable List/Banana/build/
+/Topics/Mutable List/New List/build/
+/Topics/Mutable List/Remove us/build/
+/Topics/Mutable List/Theory/build/
+/Topics/Named arguments/Car price/build/
+/Topics/String formatting/Octal and hexadecimal/build/
+/Topics/When expression/Direction/build/
+/Topics/When expression/Find the output/build/
+/Topics/When expression/Harry Potter/build/
+/Topics/When expression/String processor/build/
+/Topics/When expression/Theory/build/
